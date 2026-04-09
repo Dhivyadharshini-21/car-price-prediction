@@ -1,0 +1,40 @@
+# 🚗 Car Price Prediction
+
+## 📌 Overview
+This project aims to predict the selling price of used cars using machine learning techniques. It involves data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and evaluation.
+
+## 🎯 Objectives
+- Analyze factors affecting car prices.
+- Perform data cleaning and preprocessing.
+- Build a machine learning model to predict car prices.
+- Evaluate model performance using appropriate metrics.
+
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+
+## 📊 Project Workflow
+1. Data Collection
+2. Data Cleaning and Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Model Building (Linear Regression, Random Forest, etc.)
+6. Model Evaluation (R² Score, MAE, RMSE)
+
+
+## 🚀 How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dhivyadharshini-21/car-price-prediction.git
+
+
+👩‍💻 Author
+Dhivyadharshini C D
+🎓 BSc Data Science
+🔗 GitHub: https://github.com/Dhivyadharshini-21
+🔗 LinkedIn: linkedin.com/in/dhivya-dharshini-cd
